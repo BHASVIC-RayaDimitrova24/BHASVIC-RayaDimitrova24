@@ -1,16 +1,13 @@
-## Hi there 👋
+## Raya Dimitrova
 
-<!--
-**BHASVIC-RayaDimitrova24/BHASVIC-RayaDimitrova24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BHASVIC student studying Computer Science, Business and Graphic Design A-Levels.
 
-Here are some ideas to get you started:
+My professional goals are to study Computer Science and AI at the University of Sussex and become a programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am mostly interested in the AI sector and am currently writing an EPQ dissertation about the effect of AI on eveyday life.
+
+I am currently working on my programming coursework project, where I am making a game in Greenfoot using Java.
+
+I studied Computer Science for GCSEs and got a Grade 9.
+
+In BHASVIC I have completed many group programming projects which helped me to gain soft skills such as communication and teamwork.
