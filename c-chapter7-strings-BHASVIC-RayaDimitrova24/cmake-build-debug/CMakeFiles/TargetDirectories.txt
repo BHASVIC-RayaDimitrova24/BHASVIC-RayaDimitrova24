@@ -1,0 +1,3 @@
+C:/Users/raya.dimitrova24/Github Desktop/c-chapter7-strings-BHASVIC-RayaDimitrova24/cmake-build-debug/CMakeFiles/c_chapter7_strings_BHASVIC_RayaDimitrova24.dir
+C:/Users/raya.dimitrova24/Github Desktop/c-chapter7-strings-BHASVIC-RayaDimitrova24/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/raya.dimitrova24/Github Desktop/c-chapter7-strings-BHASVIC-RayaDimitrova24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
