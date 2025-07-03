@@ -1,0 +1,3 @@
+"C:\Users\rayad\Github Desktop\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\homework_BHASVIC_RayaDimitrova24.dir/objects.a
+C:\Users\rayad\GITHUB~1\CLION2~1.1\bin\mingw\bin\ar.exe qc CMakeFiles\homework_BHASVIC_RayaDimitrova24.dir/objects.a @CMakeFiles\homework_BHASVIC_RayaDimitrova24.dir\objects1.rsp
+C:\Users\rayad\GITHUB~1\CLION2~1.1\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\homework_BHASVIC_RayaDimitrova24.dir/objects.a -Wl,--no-whole-archive -o homework_BHASVIC_RayaDimitrova24.exe -Wl,--out-implib,libhomework_BHASVIC_RayaDimitrova24.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\homework_BHASVIC_RayaDimitrova24.dir\linkLibs.rsp
