@@ -1,0 +1,3 @@
+C:/Users/rayad/Github Desktop/c-chapter1-intro-BHASVIC-RayaDimitrova24/cmake-build-debug/CMakeFiles/c_chapter1_intro_BHASVIC_RayaDimitrova24.dir
+C:/Users/rayad/Github Desktop/c-chapter1-intro-BHASVIC-RayaDimitrova24/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rayad/Github Desktop/c-chapter1-intro-BHASVIC-RayaDimitrova24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
