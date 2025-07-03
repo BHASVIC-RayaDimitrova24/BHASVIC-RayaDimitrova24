@@ -1,0 +1,10 @@
+"C:\Users\rayad\Github Desktop\CLion 2024.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "C:\Users\rayad\Github Desktop\c-chapter2-selection-ifstatements-BHASVIC-RayaDimitrova24" -B "C:\Users\rayad\Github Desktop\c-chapter2-selection-ifstatements-BHASVIC-RayaDimitrova24\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/rayad/Github Desktop/CLion 2024.2.1/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (3.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/rayad/Github Desktop/c-chapter2-selection-ifstatements-BHASVIC-RayaDimitrova24/cmake-build-debug
