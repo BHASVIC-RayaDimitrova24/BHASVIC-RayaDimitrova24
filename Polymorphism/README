@@ -1,0 +1,3 @@
+This exercise was my introduction to incorporating polymorphism into code. The aim was to create a program that would calculate the area and perimeter of different shapes that use inheritence and polymorphism.
+
+I used the skeletal code on the "Introduction to OOP Java Edition" course on the Zig Zag Education website as a starting point and managed to create a fully-functioning program.
